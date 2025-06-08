@@ -4,13 +4,16 @@
 
 * [Home](README.md)
 
-* First Group
+* Users
 
-  * [Doc One](docone.md)
-  * [Doc Two](doctwo.md)
-  * [Doc Three](docthree.md)
+  * [Introduction](docone.md)
+  * [User Guide](doctwo.md)
+  * [FAQ and Troubleshooting](docthree.md)
+  * [Glossary]()
   
-* Second Group 
+* Developers
 
-  * [Doc Four](docfour.md)
-  * [Doc Five](docfive.md)
+  * [Introduction](ConceptualOverview(Dev)-HenryLam.md)
+  * [Developer Guide](TaskDoucmentation(Developers)-HenryLam.md)
+  * [Function Reference]()
+  * [FAQ and Support]()
