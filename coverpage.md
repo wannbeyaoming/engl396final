@@ -1,12 +1,11 @@
 <!-- _coverpage.md -->
 
-# ENGL 396 <small>Beta</small>
+# MyFavoriteAlbums <small>Beta</small>
 
-> Software Documentation Rocks
+> Ranking made Simple
 
-- Clear and concise
-- Well organized
-- Useful titles and opening text
+- Lightweight
+- Easy-to-use
 
 [Canvas](https://canvas.uw.edu/courses/1805373)
 [Get Started](#home-page)
