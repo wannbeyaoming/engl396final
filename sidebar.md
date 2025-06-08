@@ -13,7 +13,7 @@
   
 * Developers
 
-  * [Introduction](ConceptualOverview(Dev)-HenryLam.md)
-  * [Developer Guide](TaskDoucmentation(Developers)-HenryLam.md)
+  * [Introduction](DeveloperIntroduction.md)
+  * [Developer Guide](DeveloperGuide.md)
   * [Function Reference]()
   * [FAQ and Support]()
