@@ -4,10 +4,10 @@ MyFavoriteAlbums is a lightweight, easy-to-use music organizer that was built in
 
 This document will cover the following topics: 
 
-* What data does MyFavoriteAlbums take into account? (# What data does MyFavoriteAlbums take into account?)
-* What file formats does MyFavoriteAlbums take in? (# What file formats does MyFavoriteAlbums take in?)
-* What does an example input file look like? (# Example Input File) 
-* What tools do developers need for MyFavoriteAlbums? (# What tools do developers need for MyFavoriteAlbums?)
+* What data does MyFavoriteAlbums take into account?
+* What file formats does MyFavoriteAlbums take in?
+* What does an example input file look like? 
+* What tools do developers need for MyFavoriteAlbums?
 
 # Definitions
 
