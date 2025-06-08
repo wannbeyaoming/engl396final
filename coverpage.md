@@ -7,5 +7,5 @@
 - Lightweight
 - Easy-to-use
 
-[Canvas](https://canvas.uw.edu/courses/1805373)
-[Get Started](#home-page)
+[Users](docone.md)
+[Developers](DeveloperIntroduction.md)
