@@ -1,5 +1,15 @@
-# <a id="home-page"></a> Welcome!
+# <a id="home-page"></a> MyFavoriteAlbums!
 
-> This is the MyFavoriteAlbums documentation set.
+> A clean music organization and visualization tool.
 
-It includes two different sets of documents. One set is for users of the existing web app who want to view all of functions of the app. The other set is for developers of all skill levels who are aiming to add additional functionality, publish their own web instance of the app, or input their own data into the app.
+## What is it?
+MyFavoriteAlbums is a music visualization tool meant to make ranking someone's favorite albums easy!
+
+## Documentation
+This documentation set is comprised of 2 groups of documents. One is catered towards users who want to use the existing data and see the functions of the app. The other group is catered towards developers who want to add additional functionality to the program, publish their own web instance of MyFavoriteAlbums, or input their own data into the program.
+
+## Examples
+To see MyFavoriteAlbums in use, check out the [User Guide](UserGuide.md).
+
+## Try it!
+Check out MyFavoriteAlbums for yourself [here](https://cholstro.shinyapps.io/shiny-music/)!
