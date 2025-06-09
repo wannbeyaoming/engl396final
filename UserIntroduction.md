@@ -1,6 +1,6 @@
 # **Introduction**
 
-MyFavoriteAlbums is a lightweight, easy to use music organizer that was built in the programming language R. This conceptual overview is meant for users of the MyFavoriteAlbums web app. The primary purpose of this program is to display a user's favorite albums or bands. Users are currently able to view number one albums for each year over a range of years, all of the albums that have been rated for an artist, the top albums for a certain year, how many vinyl records they own each year, the top rated albums they don’t own on vinyl, and compare two artists ratings over the years. This document showcases the available features and what a user will need to use MyFavoriteAlbums.
+MyFavoriteAlbums is a lightweight, easy to use music organizer and visualization tool. This introduction is meant for users of the MyFavoriteAlbums web app who want to use the existing data and see the functions of the app. The primary purpose of this program is to display a user's favorite albums or bands. Users are currently able to view number one albums for each year over a range of years, all of the albums that have been rated for an artist, the top albums for a certain year, how many vinyl records they own each year, the top rated albums they don’t own on vinyl, and compare two artists ratings over the years. This document showcases the available features and what a user will need to use MyFavoriteAlbums.
 
 # View Number One Albums for a Range of Years
 
