@@ -8,13 +8,13 @@ This document covers actions you can perform in the MyFavoriteAlbums application
 * How to view favorite vinyls that are unowned.  
 * How to view years for which most vinyl is owned. 
 
-# Prerequisites
+## Prerequisites
 
 To perform these actions, you need to access the app at the following link: [https://cholstro.shinyapps.io/shiny-music/](https://cholstro.shinyapps.io/shiny-music/). 
 
 If you do not have internet access, you will be unable to access the application. The following instructions show  the desktop version of the application; however, if you are on a mobile device, the results and instructions should be similar.
 
-# How To See the Top Albums Over a Range of Years
+## How To See the Top Albums Over a Range of Years
 
 1. Open the MyFavoriteAlbums website.  
 2. Click on the **Number One Albums** tab.  
@@ -35,7 +35,7 @@ In the example below, the top albums between 2004 and 2012 are shown.![][image2]
 * Clicking on the search bar and typing in the name of the desired artist.![][image4]  
 4. Click the **Submit** button to see the results.
 
-# How To Compare Ratings Between Two Artists
+## How To Compare Ratings Between Two Artists
 
 1. Open the MyFavoriteAlbums website.  
 2. Click on the **Band Comparison** tab.  
@@ -47,7 +47,7 @@ In the example below, the top albums between 2004 and 2012 are shown.![][image2]
 You can now view both artists ratings over time where the first artist is in red and the second artist is in blue. An example image is shown below.  
  ![][image5]
 
-# How To View Favorite Vinyl Records That Are Unowned
+## How To View Favorite Vinyl Records That Are Unowned
 
 1. Open the MyFavoriteAlbums website.  
 2. Click on the **Vinyl** tab. 
@@ -55,7 +55,7 @@ You can now view both artists ratings over time where the first artist is in red
 The top table on the page shows the top-rated unowned vinyl records and looks like this:  
 ![][image6]
 
-# How To View Years for Which Most Vinyl Is Owned
+## How To View Years for Which Most Vinyl Is Owned
 
 1. Open the MyFavoriteAlbums website.  
 2. Click on the **Vinyl** tab.
