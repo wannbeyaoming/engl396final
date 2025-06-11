@@ -2,37 +2,37 @@
 
 MyFavoriteAlbums is a lightweight, easy to use music organizer and visualization tool. This introduction is meant for users of the MyFavoriteAlbums web app who want to use the existing data and see the functions of the app. The primary purpose of this program is to display a user's favorite albums or bands. Users are currently able to view number one albums for each year over a range of years, all of the albums that have been rated for an artist, the top albums for a certain year, how many vinyl records they own each year, the top rated albums they don’t own on vinyl, and compare two artists ratings over the years. This document showcases the available features and what a user will need to use MyFavoriteAlbums.
 
-# View Number One Albums for a Range of Years
+## View Number One Albums for a Range of Years
 
 The image below shows an example of viewing number albums for a range of years.  
 ![][image1]
 
-# View All Rated Albums for an Artist
+## View All Rated Albums for an Artist
 
 The image below shows an example of viewing all the rated albums for a certain artist.  
 ![][image2]
 
-# View Album Ranking for a Certain Year
+## View Album Ranking for a Certain Year
 
 The image below shows an example of viewing the album ranking for a certain year.  
 ![][image3]
 
-# View How Many Vinyl Records Are Owned for Each Release Year
+## View How Many Vinyl Records Are Owned for Each Release Year
 
 The image below shows an example of viewing how many vinyl records are owned for each release year.  
 ![][image4]
 
-# View Top Rated Albums Not Owned on Vinyl
+## View Top Rated Albums Not Owned on Vinyl
 
 The image below shows an example of viewing top rated albums not owned on vinyl.  
 ![][image5]
 
-# View Two Artists Ratings Over the Years
+## View Two Artists Ratings Over the Years
 
 The image below shows an example of viewing two artists' ratings over the years.  
 ![][image6]
 
-# What Do You Need To Use MyFavoriteAlbums?
+## What Do You Need To Use MyFavoriteAlbums?
 
 You will need a device that can access the internet. You will not be able to use the app if your device cannot access the internet.  
 Note: The following documentation set shows the desktop version of the application. If you are using a mobile device, your application should look similar but may be slightly different because of the different platform.
