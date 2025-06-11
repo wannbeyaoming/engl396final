@@ -9,7 +9,7 @@ This document will cover the following topics:
 * What does an example input file look like?
 * What tools do developers need for MyFavoriteAlbums?
 
-# Definitions
+### Definitions
 
 | Term | Definition |
 | :---- | :---- |
@@ -20,21 +20,21 @@ This document will cover the following topics:
 | EP | A collection of songs that was recorded by a person or group of people that is shorter in length than a full album. The number of songs in an EP usually ranges from 3-6. |
 | Live | Music that is performed in front of listeners in the same location as the singers and band. An album is a live album if the recording for that album took place in front of an audience. |
 
-# What data does MyFavoriteAlbums take into account?
+### What data does MyFavoriteAlbums take into account?
 
 MyFavoriteAlbums takes in an album that has multiple parameters associated with it. Each album has the year it was released, ranking for the year it was released, the album name, the artist name, the rating of the album out of 10 points, if the vinyl is owned or not, if the album is an EP, and if the album was a live album. 
 
-# What file formats does MyFavoriteAlbums take in?
+### What file formats does MyFavoriteAlbums take in?
 
 MyFavoriteAlbums only takes in .csv files. A .csv file is a plain text file format that stores data similar to a spreadsheet or table. Each row in a .csv file contains a data entry or data point and each comma represents a field associated with the data entry. The easiest way to create a .csv file is to create one using excel or another spreadsheet editor such as Google Sheets.
 
 In MyFavoriteAlbums, each row represents an album and each comma represents a parameter such as the album name or the rating for the album.
 
-# Example Input File
+### Example Input File
 
 ![][image1]The example file shown above was created in Excel. 
 
-# What tools do developers need for MyFavoriteAlbums?
+### What tools do developers need for MyFavoriteAlbums?
 
 In order to use this program, you will need to install a few programs: 
 
