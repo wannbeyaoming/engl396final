@@ -1,4 +1,4 @@
-
+# Function Reference
 
 | Function Name | Parameter Name (Data Type) | Short Description |
 | :---- | :---- | :---- |
