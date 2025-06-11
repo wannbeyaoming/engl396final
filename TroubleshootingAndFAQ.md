@@ -1,4 +1,6 @@
-# Why is the application not loading?
+# Troubleshooting and FAQ
+
+### Why is the application not loading?
 
 Follow the troubleshooting steps below
 
@@ -7,7 +9,7 @@ Follow the troubleshooting steps below
 2. Contact the owner.  
    1. The owner may have stopped hosting the website. If you would still like access, please contact the owner at [UW-Example-Student@gmail.com](mailto:UW-Example-Student@gmail.com).
 
-# Why am I unable to see the albums of my selected artist?
+### Why am I unable to see the albums of my selected artist?
 
 You may have not submitted your selection to the program. Make sure you click the **Submit** button below the artist selection menu. The button is pictured below.  
 ![][image1]
