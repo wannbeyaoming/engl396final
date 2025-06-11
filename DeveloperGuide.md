@@ -1,4 +1,6 @@
-# Introduction
+# Developer Guide
+
+### Introduction
 
 This document will cover actions a developer aiming to add functionality or use the existing functionality with their own data set may want to perform such as 
 
@@ -10,13 +12,13 @@ This document will cover actions a developer aiming to add functionality or use 
 * How to host your own MyFavoriteAlbums website using Shiny.  
 * How to republish changed code to Shiny.
 
-# Prerequisites
+### Prerequisites
 
 To perform all of these actions, you need to have a basic knowledge of programming and a PC with access to the internet. You will also need to have access to a spreadsheet editor such as Google Sheets or Microsoft Excel.
 
 NOTE: This document will show screenshots of the experience on a windows machine. If you have a linux or Mac computer, the steps may be slightly different.
 
-# How To Obtain the MyFavoriteAlbums Source Code
+### How To Obtain the MyFavoriteAlbums Source Code
 
 1. Open the [GitHub page](https://github.com/UW-Example-Student/MyFavoriteAlbums) for MyFavoriteAlbums.  
 2. Click the green **\<\> Code** button.  
@@ -27,7 +29,7 @@ You can now view all of the files in one folder like this:
 ![][image1]  
 NOTE: If your folder does not look exactly like this, make sure that you have the data folder, all of the R files, and the README.md file.
 
-# How To Install R
+### How To Install R
 
 1. Open the [R download page](https://cran.rstudio.com/).  
 2. Click on the link that corresponds to your operating system.  
@@ -37,7 +39,7 @@ NOTE: If your folder does not look exactly like this, make sure that you have th
 
 You should now have R installed\!
 
-# How To Install RStudio
+### How To Install RStudio
 
 1. Open the [RStudio download page](https://posit.co/download/rstudio-desktop/).  
 2. Click on the **Download RStudio** button.  
@@ -45,7 +47,7 @@ You should now have R installed\!
 4. Follow the instructions within the application.  
 5. Open RStudio. If the application looks like this, you’ve done it correctly\! ![][image2]
 
-# How To Run the App Locally
+### How To Run the App Locally
 
 1. Open RStudio.  
 2. Click on **File** at the top left. From the dropdown menu, click on **Open File**.  
@@ -59,7 +61,7 @@ You should now have R installed\!
 You now have a local instance of the app\!  
 ![][image3]
 
-# How To Add Your Own Data File
+### How To Add Your Own Data File
 
 1. Open the “album-rankings.csv” file in your preferred spreadsheet editor.  
 2. Delete all of the current data in the file using the **Ctrl \+ A** keyboard shortcut and pressing the **Delete** key on your keyboard. If you would like to keep the sample data, follow the instructions below.  
@@ -82,7 +84,7 @@ You now have a local instance of the app\!
 5. Run the app. You should see your new data set visualized\!  
    ![][image6]
 
-# How To Host Your Own MyFavoriteAlbums Instance Using Shiny
+### How To Host Your Own MyFavoriteAlbums Instance Using Shiny
 
 1. Go to the [shiny apps website](https://www.shinyapps.io/) and create a shiny apps account.  
 2. In the shinyapps.io dashboard, follow the steps outlined in the “Getting started” page.  
@@ -98,7 +100,7 @@ You now have a local instance of the app\!
 8. Click the **Publish** button near the top right button to publish your web app.  
    
 
-# How To Republish Changed Code to Shiny
+### How To Republish Changed Code to Shiny
 
 1. Click the **Republish** button on the top right corner of the window in the “app.R” file. This will republish your code along with any changes you have made to existing functions.  
    ![][image11]
