@@ -8,8 +8,9 @@
 
   * [Introduction](UserIntroduction.md)
   * [User Guide](UserGuide.md)
-  * [FAQ and Troubleshooting](TroubleshootingAndFAQ.md)
   * [Glossary](Glossary.md)
+  * [FAQ and Troubleshooting](TroubleshootingAndFAQ.md)
+
   
 * Developers
 
