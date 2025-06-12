@@ -94,7 +94,7 @@ You now have a local instance of the app\!
 4. Create a new token by clicking on the green **Add Token** button near the top right corner.  
 5. Once you have created a new token, click on the **Show** button next to your token.  
    ![][image9]  
-6. Click the **Copy to Clipboard** button, use the command **CTRL \+ C** on your keyboard, and then click **Ok**.  
+6. Click the **Copy to Clipboard** button, use the command **Ctrl \+ C** on your keyboard, and then click **Ok**.  
 7. Once copied to your clipboard, paste the text into the console in RStudio.  
    ![][image10]  
 8. Click the **Publish** button near the top right button to publish your web app.  
